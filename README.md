@@ -1,64 +1,64 @@
-Capstone: EnergyFlow
+# Capstone: EnergyFlow
 This application is for useres of all ages and helps the target user group with basic information abou the Eastern philiosopy of energy flow within the human body.
 
 This project was generated with Angular CLI version 10.0.4.
 
-MVP - Minimum Viable Product
+# MVP - Minimum Viable Product
 
 Create a page that has pictures and information about energy flow system of the human body
 
 Button pictures that direct to information
 
-Technologies Used
+# Technologies Used
 
 Agular 10, css, HTML, Typscript
 
-Approach Taken
+# Approach Taken
 
 Routes that lead to information about the 7 energy centers of the human body
 
 Route to a general information
 
-A link to Application
+# A link to Application
 
 https://github.com/ty-vin/Capstone
 
-Installation instructions
+# Installation instructions
 
 N/A
 
-Unsolved problems
+# Unsolved problems
 
-Problems Encountered but Solved
+# Problems Encountered but Solved
 
-Post MVP Section
+# Post MVP Section
 
-where you describe all of the future functionality you plan and want to have in your project in order to progress your skill set
+Place where you describe all of the future functionality you plan and want to have in your project in order to progress your skill set
 Add mutiple pages Create an email capture page
 
-Project Board
+# Project Board
 
 Located in github 'Projects'
 
-Wire Frame
+# Wire Frame
 
 Locatesd in Wire Frame folder
 
 ---------- -------------------------------
 
-Development server
+# Development server
 
 Run ng serve for a dev server. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
 
-Code scaffolding
+# Code scaffolding
 
 Run ng generate component component-name to generate a new component. You can also use ng generate directive|pipe|service|class|guard|interface|enum|module.
 
-Build
+# Build
 
 Run ng build to build the project. The build artifacts will be stored in the dist/ directory. Use the --prod flag for a production build.
 
-Running unit tests
+# Running unit tests
 
 Run ng test to execute the unit tests via Karma.
 
@@ -66,20 +66,21 @@ Running end-to-end tests
 
 Run ng e2e to execute the end-to-end tests via Protractor.
 
-Further help
+# Further help
 
 To get more help on the Angular CLI use ng help or go check out the Angular CLI README.
 
 ----------- ---------------------
 
-Assignment Information:
-MVP - Minimum Viable Product
+# Assignment Information:
+
+# MVP - Minimum Viable Product
 
 You will be allowed to choose your own project idea to accomplish.
 
 The project idea should only depend on rendering information from arrays of objects.
 
-Requirements
+# Requirements
 
 Commits to github every day since project assignment
 
@@ -115,7 +116,7 @@ To-do: These are all the tasks that you currently see that you need to complete 
 
 Ice-box: These are tasks that you should complete at some point but aren't a problem or hurdle as for right now and won't be for a long time. Or at all.
 
-README file clearly documents the purpose of the project as a problem statement
+# README file clearly documents the purpose of the project as a problem statement
 README file clearly documents the target end user for this program.
 
 Git repository has AT LEAST 30 github commits with VERY clear messages Every message should have a description of the tasks that you accomplished, how, and why you accomplished it the way that you did There should never be any vague or one word commit messages
