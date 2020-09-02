@@ -42,7 +42,7 @@ Located in github 'Projects'
 
 # Wire Frame
 
-Locatesd in Wire Frame folder
+Located in Wire Frame folder
 
 ---------- -------------------------------
 
